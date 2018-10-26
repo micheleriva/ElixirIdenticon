@@ -1,4 +1,4 @@
-# Identicon
+# 💠 ElixirIdenticon
 
 A simple Identicon generator, based on a great tutorial on Udemy.
 
@@ -15,20 +15,20 @@ $ iex -S mix
 
 # Examples
 
-**Input:** "hello_world"
+**Input:** "hello_world" <br />
 ![hello_world](/docs/identicons/hello_world.png)
 
-**Input:** "elixir_rocks"
+**Input:** "elixir_rocks" <br />
 ![hello_world](/docs/identicons/elixir_rocks.png)
 
-**Input:** "functional"
+**Input:** "functional" <br />
 ![hello_world](/docs/identicons/functional.png)
 
-**Input:** "phoenix"
+**Input:** "phoenix" <br />
 ![hello_world](/docs/identicons/phoenix.png)
 
-**Input:** "MicheleRiva"
+**Input:** "MicheleRiva" <br />
 ![hello_world](/docs/identicons/MicheleRiva.png)
 
-**Input:** "ElixirIdenticon"
+**Input:** "ElixirIdenticon" <br />
 ![hello_world](/docs/identicons/ElixirIdenticon.png)
